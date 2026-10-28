@@ -1,0 +1,283 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #101418;
+    color: white;
+    font-family: sans-serif;
+}
+.a{
+font-size: 40px;
+font-weight: 400;
+font-family: serif;
+display: inline;
+}
+.b{
+    font-size: 25px;
+    font-weight:200;
+    display: inline;
+}
+.c{
+    font-size: 35px; 
+    font-family: serif;   
+    display: inline;
+}
+.A{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: white;
+}
+.Aa{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+img{
+    width: 300px;
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    position: relative;
+    left: 650px;
+    top: 45px;
+}
+.d{
+    font-size: 20px;
+    /* display: block; */
+}
+.da{
+    color: white;
+    font-size: 15px;
+    text-decoration-style: none;
+}
+.aa{
+    cursor: pointer;
+    top: 2%;
+    left: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    text-decoration-style: none;
+    position: absolute;
+    width: 250px;
+}
+.o{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.oo{
+    color: #3c4045;
+    font-size: 17px;
+}
+.ab{
+    position: absolute;
+}
+.bb{
+    font-size: 20px;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    /* color: white; */
+    gap: 10px;
+    text-decoration: none;
+    text-decoration-style: none;
+    position: absolute;
+    top: 80px;
+    left: 500px;
+    cursor: pointer;
+}
+.cc{
+    font-family: sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    cursor: pointer;
+    text-decoration: none;
+    text-decoration-style: none;
+    left: 520px;
+    top: 150px;
+    gap: 10px;
+}
+.bc{
+    color: #3c4045;
+}
+.Ab{
+    color: #3c4045;
+    font-size: 17px;
+}
+.dd{
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: absolute;
+    text-decoration: none;
+    text-decoration-style: none;
+    top: 220px;
+    left: 560px;
+
+}
+.daa{
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+strong{
+    font-size: 20px;
+    color: #2E4488;
+}
+.id{
+    color: #3c4045;
+    font-size: 17px;
+}
+.ee{
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    text-decoration-style: none;
+    gap: 10px;
+    position: absolute;
+    top: 300px;
+    left: 570px;
+    width: 200px;
+}
+.BD{
+    color: #3c4045;
+}
+.ff{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    text-decoration: none;
+    text-decoration-style: none;
+    gap: 10px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 980px;
+    top: 2%;
+    width: 200px;
+
+}
+.r{
+    font-size: 17px;
+    font-family: sans-serif;
+    color: #3c4045;
+}
+.p{
+    font-size: 17px;
+    font-family: sans-serif;
+    color: #3c4045;
+}
+.aaa{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    text-decoration-style: none;
+    top: 80px;
+    left: 1050px;
+    width: 200px;
+}
+.hh{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-decoration: none;
+    text-decoration-style: none;
+    cursor: pointer;
+    font-size: 20px;
+    top: 150px;
+    position: absolute;
+    left: 1070px;
+    width: 200px;
+}
+.tt{
+   position: absolute;
+   gap: 10px;
+   text-decoration-style: none;
+   text-decoration: none;
+   width: 150px;
+   top: 300px;
+   cursor: pointer;
+   font-size: 20px;
+   left: 990px;
+   margin-bottom: 30px;
+}
+.OOP{
+    /* margin-left: 680px; */
+    color: blue;
+    left: 700px;
+    background-color: transparent;
+}
+button{
+    width: 700px;
+    height: 50px;
+    margin-top: 350px;
+    color: white;
+    background-color: transparent;
+    margin-bottom: 20px;
+}
+.dam{
+    margin-left: 650px;
+    background-color: transparent;
+    color: blue;
+    width: 25px;
+}
+.op{
+    background-color: transparent;
+    color: blue;
+}
+.ren{
+    width: 300px;
+    height: 37px;
+    margin-top: 10px;
+    justify-self: center;
+}
+hr{
+    margin-top: 15px;
+    background-color: #3c4045;
+    color: #3c4045;
+}
+.abb{
+    width: 50px;
+    height: 50px;
+    color: white;
+    background-color: blue;
+}
+.ll{
+    display: flex;
+    flex-direction: row;
+    margin-left: 530px;
+}
+.pp{
+   cursor: pointer;
+    font-family: sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: absolute;
+    text-decoration: none;
+    text-decoration-style: none;
+    top: 220px;
+    left: 1050px;
+    width: 150px;
+
+}
